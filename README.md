@@ -1,2 +1,2 @@
 # Calculadora-Idade
- A partir do ano de nascimento, saber a idade em qualquer outro ano.
+ Calculadora de idade em PHP
